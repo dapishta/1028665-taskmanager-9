@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dasha Pishta](https://up.htmlacademy.ru/ecmascript/9/user/1028665).
-* Наставник: `Неизвестно`.
+* Наставник: [Ivan Chirva](https://htmlacademy.ru/profile/id1042623).
 
 ---
 
